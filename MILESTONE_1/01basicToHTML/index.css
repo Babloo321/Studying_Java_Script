@@ -1,0 +1,7 @@
+#first {
+    /* margin: 0%; */
+    background-color: paleturquoise;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}

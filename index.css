@@ -1,0 +1,10 @@
+#first {
+    /* margin: 0%; */
+    background-color: paleturquoise;
+    
+}
+#count {
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
