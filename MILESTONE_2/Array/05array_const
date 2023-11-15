@@ -1,0 +1,7 @@
+const arr = ['bablo', 'mahi', 'naina'];
+arr.forEach((ele)=> console.log(ele));
+// can not reassign into constant array
+arr = ["malhotra", "mahi"];
+arr.forEach((ele)=> console.log(ele));
+
+// declaration of array with const keyword can reinitilize it's mandatory to assign value at the time of declaration of const variable
